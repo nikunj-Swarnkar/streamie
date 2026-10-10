@@ -12,7 +12,7 @@ a hackpad or a streaming device with a gamepad in which you can stream your game
 
 this is the case i prepared 
 
-![final build](image.png)
+![final build](document/image.png)
 
 ## Flashing
 for the Raxda please follow raxda offical guide , please flash it before assembly 
@@ -75,11 +75,11 @@ Compatibility: Windows and Linux. Consoles will not accept this controller.
 ## Assembly 
 
 after printing the case add screen on in it 
-![alt text](image-1.png)
+![alt text](document/image-1.png)
 
 
 then add the front latch to the screen and secure it with 4 M3 screws 
-![alt text](image-2.png)
+![alt text](document/image-2.png)
 
 after that add all the buttons from the back 
 ![](https://cdn.hackclub.com/01a126e3-4b7b-73f5-b9a2-92b3a3756168/journal-1791653792293.png)
