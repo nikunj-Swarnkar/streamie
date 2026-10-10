@@ -21,5 +21,4 @@ Appears to Windows as a wired Xbox 360 controller, with working rumble.
 
 ## Notes
 - Works natively on Windows and with xpad on Linux. Consoles will not accept it.
-- If Windows shows an unknown device instead of "Xbox 360 Controller", tell me
-  and send the device-manager details.
+
