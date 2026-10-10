@@ -109,3 +109,33 @@ and we are done !
 ---
 
 
+# Bill of Materials (BOM)
+
+| Sr. No. | Name | Link | Unit Price (USD) | Quantity | Total Price (USD) |
+|---:|---|---|---:|---:|---:|
+| 1 | JST male | [Product link](https://sharvielectronics.com/product/ph-14aw-14-pin-jst-right-angle-male-connector-2mm-pitch/) | 0.130 | 6 | 0.780 |
+| 2 | JST female | [Product link](https://sharvielectronics.com/product/jst-ph-14-14-pin-single-side-female-to-free-end-connector-with-2mm-pitch-30cm-wire-length/) | 0.510 | 6 | 3.060 |
+| 3 | 90-degree push button | [Product link](https://sharvielectronics.com/product/push-button-right-angle-tactile-switch-6x5mm-right-angle-tactile-switch-momentary-switch/) | 0.710 | 10 | 7.100 |
+| 4 | Joystick | [Product link](https://sharvielectronics.com/product/thumb-joystick-switch-xy-dual-axis-4-way-direction/) | 0.660 | 4 | 2.640 |
+| 5 | Screen | [Product link](https://makerbazar.in/products/waveshare-5-inch-capacitive-hdmi-lcd-display-h-800-480?variant=43342621311216) | 51.670 | 1 | 51.670 |
+| 6 | Battery | [Product link](https://makerbazar.in/products/single-cell-3-7v-10000mah-lipo-battery?variant=48251044659440) | 4.120 | 1 | 4.120 |
+| 7 | Buck converter (listed as XL6009) | [Product link](https://makerbazar.in/products/xl6009-dc-dc-adjustable-boost-buck-step-up-step-down-converter-module) | 0.670 | 1 | 0.670 |
+| 8 | SMD push button | [Product link](https://makerbazar.in/products/5-2x5-2mm-smd-copper-push-button-tactile-switch?variant=48101517852912) | 0.200 | 2 | 0.400 |
+| 9 | Vibration motor | [Product link](https://makerbazar.in/products/coin-type-micro-disc-vibration-motor?variant=48251066024176) | 0.200 | 4 | 0.800 |
+| 10 | MCP3008 ADC | [Product link](https://sharvielectronics.com/product/mcp3008-i-p-8-channel-10-bit-adc-with-spi-interface-ic-dip-16-package/) | 3.530 | 1 | 3.530 |
+| 11 | 1N4739A Zener diode (9.1 V) | [Product link](https://sharvielectronics.com/product/1n4739a-9-1v-1watt-zener-diode-%c2%b15-tolerance-do-41-package/) | 0.034 | 4 | 0.136 |
+| 12 | Waveshare RP2040 Zero | [Product link](https://sharvielectronics.com/product/waveshare-rp2040-zero-without-header/) | 3.800 | 1 | 3.800 |
+| 13 | AO3400 MOSFET | [Product link](https://sharvielectronics.com/product/ao3400-30v-5-8a-n-channel-mosfet-sot-23-package/) | 0.100 | 5 | 0.500 |
+| 14 | RK09K1110A0J | [Product link](https://robu.in/product/1-month-warranty-1035/) | 0.580 | 2 | 1.160 |
+| 15 | 10 kΩ resistor | [Product link](https://sharvielectronics.com/product/10k-ohm-1-watt-metal-film-resistor-1-tolerance/) | 0.920 | 10 | 9.200 |
+| 16 | 100 Ω resistor | [Product link](https://sharvielectronics.com/product/100-ohm-1-2-watt-resistor-5-tolerance/) | 0.012 | 10 | 0.120 |
+| 17 | 100 kΩ resistor | [Product link](https://sharvielectronics.com/product/100k-ohm-2-watt-metal-film-resistor-1-tolerance/) | 0.095 | 10 | 0.950 |
+| 18 | Radxa Cubie A7Z | [Product link](https://evelta.com/cubie-a7z-tiny-size-mighty-ai-sbc-radxa/) | 62.120 | 1 | 62.120 |
+| 19 | AUX port/cable | [Product link](https://sharvielectronics.com/product/3-5mm-aux-male-to-female-audio-extension-cable-1-meter/) | 1.020 | 1 | 1.020 |
+| 20 | Micro-HDMI to HDMI cable/adapter | [Product link](https://sharvielectronics.com/product/micro-hdmi-male-to-hdmi-male-adapter/) | 1.540 | 1 | 1.540 |
+| 21 | USB-C to USB-C cable | [Product link](https://www.amazon.in/Wayona-Powerbank-charging-compatible-Samsung/dp/B08WKJN4LF?source=ps-sl-shoppingads-lpcontext&smid=A2V43CXDBM3YTI&th=1) | 3.030 | 1 | 3.030 |
+|  | **Grand Total** |  |  |  | **158.346** |
+
+---
+
+and we are done , ill update the github now when i make the project ~
