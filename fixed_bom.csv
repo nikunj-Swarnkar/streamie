@@ -1,0 +1,23 @@
+Sr. No.,Name,Link,Unit Price (USD),Quantity,Total Price (USD)
+1,JST male,https://sharvielectronics.com/product/ph-14aw-14-pin-jst-right-angle-male-connector-2mm-pitch/,0.13,6,0.78
+2,JST female,https://sharvielectronics.com/product/jst-ph-14-14-pin-single-side-female-to-free-end-connector-with-2mm-pitch-30cm-wire-length/,0.51,6,3.06
+3,90-degree push button,https://sharvielectronics.com/product/push-button-right-angle-tactile-switch-6x5mm-right-angle-tactile-switch-momentary-switch/,0.71,10,7.1
+4,Joystick,https://sharvielectronics.com/product/thumb-joystick-switch-xy-dual-axis-4-way-direction/,0.66,4,2.64
+5,Screen,https://makerbazar.in/products/waveshare-5-inch-capacitive-hdmi-lcd-display-h-800-480?variant=43342621311216,51.67,1,51.67
+6,Battery,https://makerbazar.in/products/single-cell-3-7v-10000mah-lipo-battery?variant=48251044659440,4.12,1,4.12
+7,Buck converter (listed as XL6009),https://makerbazar.in/products/xl6009-dc-dc-adjustable-boost-buck-step-up-step-down-converter-module,0.67,1,0.67
+8,SMD push button,https://makerbazar.in/products/5-2x5-2mm-smd-copper-push-button-tactile-switch?variant=48101517852912,0.2,2,0.4
+9,Vibration motor,https://makerbazar.in/products/coin-type-micro-disc-vibration-motor?variant=48251066024176,0.2,4,0.8
+10,MCP3008 ADC,https://sharvielectronics.com/product/mcp3008-i-p-8-channel-10-bit-adc-with-spi-interface-ic-dip-16-package/,3.53,1,3.53
+11,1N4739A Zener diode (9.1 V),https://sharvielectronics.com/product/1n4739a-9-1v-1watt-zener-diode-%c2%b15-tolerance-do-41-package/,0.034,4,0.136
+12,Waveshare RP2040 Zero,https://sharvielectronics.com/product/waveshare-rp2040-zero-without-header/,3.8,1,3.8
+13,AO3400 MOSFET,https://sharvielectronics.com/product/ao3400-30v-5-8a-n-channel-mosfet-sot-23-package/,0.1,5,0.5
+14,RK09K1110A0J,https://robu.in/product/1-month-warranty-1035/,0.58,2,1.16
+15,10 kΩ resistor,https://sharvielectronics.com/product/10k-ohm-1-watt-metal-film-resistor-1-tolerance/,0.92,10,9.2
+16,100 Ω resistor,https://sharvielectronics.com/product/100-ohm-1-2-watt-resistor-5-tolerance/,0.012,10,0.12
+17,100 kΩ resistor,https://sharvielectronics.com/product/100k-ohm-2-watt-metal-film-resistor-1-tolerance/,0.095,10,0.95
+18,Radxa Cubie A7Z,https://evelta.com/cubie-a7z-tiny-size-mighty-ai-sbc-radxa/,62.12,1,62.12
+19,AUX port/cable,https://sharvielectronics.com/product/3-5mm-aux-male-to-female-audio-extension-cable-1-meter/,1.02,1,1.02
+20,Micro-HDMI to HDMI cable/adapter,https://sharvielectronics.com/product/micro-hdmi-male-to-hdmi-male-adapter/,1.54,1,1.54
+21,USB-C to USB-C cable,https://www.amazon.in/Wayona-Powerbank-charging-compatible-Samsung/dp/B08WKJN4LF?source=ps-sl-shoppingads-lpcontext&smid=A2V43CXDBM3YTI&th=1,3.03,1,3.03
+,,,,,158.346
