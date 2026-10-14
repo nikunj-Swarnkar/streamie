@@ -14,6 +14,11 @@ this is the case i prepared
 
 ![final build](document/image.png)
 
+## PCB
+![PCB](document/pcb.png)
+
+---
+
 ## Flashing
 for the Raxda please follow raxda offical guide , please flash it before assembly 
 [Raxda Site](https://docs.radxa.com/en/cubie/a7z/other-system/android)
