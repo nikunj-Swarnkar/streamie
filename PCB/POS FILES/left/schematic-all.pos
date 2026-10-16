@@ -1,0 +1,21 @@
+### Footprint positions - created on 2026-10-16T20:51:02 ###
+### Printed by KiCad version 10.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val             Package                                                PosX       PosY       Rot  Side
+U5        left            Potentiometer_Alps_RK09K_Single_Horizontal          54.8250   -86.5750  180.0000  bottom
+D2        B140-E3         D_SMA                                               69.6250  -123.6500  -90.0000  top
+J3        Conn_01x14_Pin  JST_PH_S14B-PH-K_1x14_P2.00mm_Horizontal            79.7250  -135.8750   90.0000  top
+M2        Motor_DC        MOTOR_2PAD                                          60.8250  -124.6500  -90.0000  top
+Q1        AO3400A         SOT-23                                              65.2750  -128.2125   90.0000  top
+R3        100KR           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal    64.5150  -136.6500    0.0000  top
+R4        100R            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal    72.1350  -132.6500  180.0000  top
+SW1       SW_Push         SW_5.2x5.2x2.0                                      55.8000  -101.9000    0.0000  top
+SW2       SW_Push         SW_5.2x5.2x2.0                                      46.0250  -111.6750    0.0000  top
+SW3       SW_Push         SW_5.2x5.2x2.0                                      65.3000  -111.5500    0.0000  top
+SW4       SW_Push         SW_5.2x5.2x2.0                                      55.5250  -122.2500    0.0000  top
+SW9       SW_Push         SW_5.2x5.2x2.0                                      80.6250   -97.1250    0.0000  top
+SW11      SW_Push         SW_5.2x5.2x2.0                                      80.1750   -63.1750    0.0000  top
+SW12      SW_Push         SW_Tactile_SPST_Angled_PTS645Vx58-2LFS              75.5500   -52.2875    0.0000  top
+U3        LEFT_JOYSTICK   XDCR_COM-09032                                      63.8250   -67.8250    0.0000  top
+## End
